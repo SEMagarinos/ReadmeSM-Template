@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Coding-PowerShell-green?style=flat&logo=powershell
+![vscode](https://img.shields.io/badge/Coding-PowerShell-green?style=flat&logo=powershell)
 
 # Título del Proyecto
 
